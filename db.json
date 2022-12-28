@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "title": "dfsdfs",
+      "body": "dfsdfs",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
